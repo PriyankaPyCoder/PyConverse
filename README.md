@@ -20,7 +20,6 @@ This project is ideal for beginners to learn Python programming while building a
 1. Clone or download the repository.  
 2. Open the project folder and run:
 
-```bash
 python chatbot.py
 3. Start chatting with the bot in your terminal.
 4. Type bye to exit the conversation.
@@ -57,3 +56,5 @@ Priyanka Swain
 First-Year BCA Student | Aspiring Software Engineer
 • GitHub: https://github.com/PriyankaPyCoder
 • LinkedIn: https://www.linkedin.com/in/priyanka-swain-1b4457382?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+```bash
